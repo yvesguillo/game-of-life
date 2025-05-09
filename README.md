@@ -7,7 +7,7 @@ Welcome to the beautiful chaos of cellular automata! This is a **Tkinter** + **N
 ## Why Game of Life?
 
 Because it’s *life*, literally.  
-Proposed by [*Matthieu Amiguet*](https://matthieuamiguet.ch/) as an exercise during *HE-Arc*'s *CAS-IDD*'s *Python* module, *Conway's Game of Life* is the perfect blend of simplicity and complexity:
+Proposed by [*Matthieu Amiguet*](https://matthieuamiguet.ch/) as an exercise during *HE-Arc*'s *CAS-IDD*'s *Python* module (2025), *Conway's Game of Life* is the perfect blend of simplicity and complexity:
 - The rules are minimal.
 - The behavior is unpredictable.
 - The vibes? Immaculate.
