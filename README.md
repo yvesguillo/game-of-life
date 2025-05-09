@@ -1,4 +1,6 @@
-# *Conway's Game of Life* — Yet another Python edition
+# *Conway's Game of Life*
+
+**Yet another Python edition.**
 
 ![Conway's Game of Life](images/gol.avif)
 
