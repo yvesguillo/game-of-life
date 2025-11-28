@@ -94,6 +94,6 @@ python gol.py --width 128 --height 64 --cell-size 8 --delay 16 --random-cell 128
 - Shader-based rendering (just because)
 - Web version (maybe with WebAssembly)
 
-Got ideas? Spot a bug? Wanna make this thing even cooler? Open an issue or shoot a PR — we’d love to hear from you!
+Got ideas? Spot a bug? Wanna make this thing even cooler? Open an issue or shoot a PR; we’d love to hear from you!
 
 Made with 𖹭, Python, and curiosity.
